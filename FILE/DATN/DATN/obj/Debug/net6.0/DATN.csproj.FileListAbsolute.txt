@@ -1,0 +1,15 @@
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\bin\Debug\net6.0\DATN.exe
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\bin\Debug\net6.0\DATN.deps.json
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\bin\Debug\net6.0\DATN.runtimeconfig.json
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\bin\Debug\net6.0\DATN.dll
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\bin\Debug\net6.0\DATN.pdb
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.csproj.AssemblyReference.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.GeneratedMSBuildEditorConfig.editorconfig
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.AssemblyInfoInputs.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.AssemblyInfo.cs
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.dll
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\refint\DATN.dll
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.pdb
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\DATN.genruntimeconfig.cache
+E:\ĐỒ ÁN TỐT NGHIỆP\Code DATN\DATN\DATN\obj\Debug\net6.0\ref\DATN.dll
